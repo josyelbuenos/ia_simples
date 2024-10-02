@@ -1,0 +1,1 @@
+from .ia_simples import configurar_api, gerar_texto
